@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">My</string>
     <string name="sss">Privacy Policy</string>
+    <string name="okta">Okta</string>
+    <string name="need_help">need help</string>
+    <string name="powered">Powered</string>
+    <string name="button">Button</string>
+    <string name="remember_me">Remember me</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
 </resources>
